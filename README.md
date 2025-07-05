@@ -7,7 +7,7 @@ The objective of this project is to perform exploratory data analysis on real-wo
 ## Dataset Details
 - Dataset Name: covid19.csv  
 - Columns: Date, Country, Confirmed, Recovered, Deaths  
-- Source: Our World in Data (OWID) via Kaggle Archive
+**Dataset Source**: [COVID-19 Dataset on Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report) by Devakumar K. P.
 
 ## Tools and Libraries
 - Platform: Google Colab  
